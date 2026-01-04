@@ -34,3 +34,4 @@ nintendo.net
 nintendo.com
 receive-lp1.er.srv.nintendo.net
 receive-lp1.dg.srv.nintendo.net
+sun.hac.lp1.d4c.nintendo.net
